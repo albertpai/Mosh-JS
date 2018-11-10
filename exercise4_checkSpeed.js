@@ -1,5 +1,5 @@
 /*
-1. Print out 'Ok' if speed is lower than speed limit plus extra speed per point.
+1. Print out 'Ok' if speed is lower than speed limit plus the speed required to get a point.
 2. Print out points if speed is higher than speed limit.
 3. Print out 'Licence suspended' if points are more than 12.
 4. Test different numbers around the borderlines: 
