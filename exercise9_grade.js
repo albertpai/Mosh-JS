@@ -26,4 +26,3 @@ function calculateAverage(array){
         sum += value;
     return sum / array.length;
 }
-
